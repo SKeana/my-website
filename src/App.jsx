@@ -3,6 +3,7 @@ import About from './components/About';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Blog from './components/Blog.jsx';
 import './index.css';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <About />
       <Projects />
+      <Blog />
       <Contact />
       <Footer />
     </div>
