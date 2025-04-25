@@ -8,7 +8,7 @@ export default function Contact() {
           </p>
           <div className="flex space-x-4">
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://www.linkedin.com/in/shaun-kean-54aba71a1/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
@@ -16,7 +16,7 @@ export default function Contact() {
               LinkedIn
             </a>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/SKeana"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
@@ -24,7 +24,7 @@ export default function Contact() {
               GitHub
             </a>
             <a
-              href="mailto:your.email@example.com"
+              href="skean2000@outlook.com"
               className="text-blue-600 hover:underline"
             >
               Email
