@@ -1,10 +1,12 @@
+import { Box, Heading, Text } from '@chakra-ui/react';
+
 export default function Header() {
-    return (
-      <header className="bg-blue-600 text-white py-6">
-        <div className="container mx-auto px-4">
-          <h1 className="text-3xl font-bold">My Developer Portfolio</h1>
-          <p className="mt-2">Aspiring Full-Stack Developer</p>
-        </div>
-      </header>
-    );
-  }
+  return (
+    <Box as="header" bg="blue.600" color="white" py={6} textAlign="center">
+      <Heading as="h1" size="xl">
+        My Developer Portfolio
+      </Heading>
+      <Text mt={2}>Aspiring Full-Stack Developer</Text>
+    </Box>
+  );
+}
