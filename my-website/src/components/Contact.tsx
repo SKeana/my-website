@@ -10,13 +10,13 @@ export default function Contact() {
         Interested in working together? Reach out to me!
       </Text>
       <HStack spacing={4} justify="center">
-        <Link href="https://linkedin.com/in/yourusername" isExternal color="blue.600">
+        <Link href="https://www.linkedin.com/in/shaun-kean-54aba71a1/" isExternal color="blue.600">
           LinkedIn
         </Link>
-        <Link href="https://github.com/yourusername" isExternal color="blue.600">
+        <Link href="https://github.com/SKeana" isExternal color="blue.600">
           GitHub
         </Link>
-        <Link href="mailto:your.email@example.com" color="blue.600">
+        <Link href="skean2000@outlook.com" color="blue.600">
           Email
         </Link>
       </HStack>
